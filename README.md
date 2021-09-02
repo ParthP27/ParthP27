@@ -42,8 +42,8 @@
 #### Recent Projects:
   
 <a href="https://github.com/ParthP27/Image-Inpainting">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ParthP27&repo=Image-Inpainting&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ParthP27&repo=Image-Inpainting&show_icons=true&theme=light" />
 </a>
 <a href="https://github.com/ParthP27/Elocutor-An-Assistant-for-Specially-Abled">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ParthP27&repo=Elocutor-An-Assistant-for-Specially-Abled&theme=dark" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ParthP27&repo=Elocutor-An-Assistant-for-Specially-Abled&show_icons=true&theme=light" />
 </a>
