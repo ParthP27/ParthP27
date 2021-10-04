@@ -9,10 +9,6 @@
 
 #### 📚 I'm a M.Tech CSE Student at NIT Trichy
 
-- ✌ AIR 418 GATE 2021
-- ✔ Problems Solved on GFG: 250+
-- 3 ⭐ at Codechef - Rating: 1702
-
 #### Coding Profiles:
 <a href="https://auth.geeksforgeeks.org/user/parthpatel12/practice/">
   <img align="left" alt="GFG" height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/geeksforgeeks.svg" />
